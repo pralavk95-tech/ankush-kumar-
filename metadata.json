@@ -1,0 +1,6 @@
+{
+  "name": "Simple Chat",
+  "description": "An offline-persisted smart chat application with multiple AI personas powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
